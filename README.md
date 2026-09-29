@@ -10,6 +10,8 @@ Open a messy research spreadsheet and get a draft data dictionary: what each col
 2. Click **Use demo sheet (fake patients)**, or choose your own spreadsheet.
 3. Check that the sheet and header row are right, then read the column table.
 
+You can also download `sample_fake_dataset.xlsx` from this repo and load it with **Choose File**. It's the same kind of made-up data, no real patients.
+
 ## Privacy
 
 The file is read inside your browser tab. Nothing is uploaded or stored. The demo sheet is made up and contains no real patient data.
